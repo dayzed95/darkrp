@@ -50,6 +50,7 @@ Enjoy your stay, and feel free to make suggestions to our staff.
 12. Do not block sections of the map or entire buildings.
 13. Do not block off sections of the sewer.
 14. You can place a building sign while you build so long as there aren't raidable items in the base
+15. Do not make props 100% transparent with the color tool. Windows need to have some sort of visibility that players can see it is a window.
 
 - Raiding Rules
 
@@ -57,8 +58,7 @@ Enjoy your stay, and feel free to make suggestions to our staff.
 2. Don't grief someone's base
 3. Raid needs to conclude within 5 minutes.
 4. You cannot raid someone that you know has nothing (building sign outside)
-5. No spawn killing during a raid.Each newline becomes its own numbered item.
-6. You can add as many as you need!
+5. No spawn killing during a raid.
 
 - Job Specific Rules
 
